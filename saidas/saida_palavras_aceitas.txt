@@ -1,0 +1,20 @@
+010 aceito
+10 nao aceito
+00001 aceito
+0011010 nao aceito
+1011 aceito
+0 nao aceito
+00 aceito
+00101001 nao aceito
+10111 nao aceito
+0010011 nao aceito
+110 nao aceito
+0 nao aceito
+01111000 nao aceito
+1001 aceito
+011111 nao aceito
+00000 nao aceito
+1 nao aceito
+100110 nao aceito
+1100000 nao aceito
+000011 nao aceito

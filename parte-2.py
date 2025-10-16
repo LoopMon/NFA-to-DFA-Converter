@@ -21,7 +21,7 @@ with open("saidas/saida_AFD.txt", "r") as f:
 palavras = []
 with open("entrada_palavras_AFD.txt", "r") as f:
     for palavra in f:
-        texto_aux = palavra.replace("\n", "")
+        texto_aux = palavra.strip()
         palavras.append(texto_aux)
 
 # variaveis auxiliares utilizadas ao longo do programa
